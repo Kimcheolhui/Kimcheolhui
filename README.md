@@ -44,8 +44,8 @@
 
 ### 📫 How to Reach Me
 - **Email**: [cjfgml0306@naver.com](mailto:cjfgml0306@naver.com)
-- **LinkedIn**: [linkedin.com/in/%EC%B2%A0%ED%9D%AC-%EA%B9%80-5432941bb/](https://linkedin.com/in/%EC%B2%A0%ED%9D%AC-%EA%B9%80-5432941bb/)
-- **Instagram**: [https://www.instagram.com/letsgo._.kim/](https://www.instagram.com/letsgo._.kim/)
+- **LinkedIn**: [linkedin.com/in/cheolhuikim](https://www.linkedin.com/in/cheolhuikim/)
+- **Instagram**: [instagram.com/letsgo._.kim/](https://www.instagram.com/letsgo._.kim/)
 
 ---
 
