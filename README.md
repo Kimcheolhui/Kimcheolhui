@@ -35,7 +35,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubespray](https://img.shields.io/badge/kubespray-%3D647F.svg?style=for-the-badge&logo=kubespray&logoColor=white)
 
 
 #### Web/Mobile Frontend
