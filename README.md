@@ -1,9 +1,12 @@
 ## 👋 Hello! Welcome to My GitHub Profile!
 
-- I'm a Software developer
+- I'm passionate about `Backend`, `DevOps`, and `InfraOps` as a `Software Developer`!
 - I'm currently studying in **GIST**
 - My major is `Computer Science`
 - Contact: cjfgml0306@naver.com
+
+Here is my resume!
+[Cheolhui's Resume (2025.2.).pdf](https://drive.google.com/file/d/1fiZpPuAhmB38NQ5vVnmma15XofyIKNgL/view?usp=sharing)
 
 ### 🛠️ Tech Stack
 #### Languages
