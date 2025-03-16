@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to My GitHub Profile!
 
 - I'm passionate about `Backend`, `DevOps`, and `InfraOps` as a `Software Developer`!
-- I'm currently studying in **GIST**
+- I'm currently studying in [**GIST**](https://ewww.gist.ac.kr/kr/main.html)
 - My major is `Computer Science`
 - Contact: cjfgml0306@naver.com
 
