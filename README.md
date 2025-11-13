@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to My GitHub Profile!
 
 - I'm passionate about `Cloud`, `DevOps`, and `InfraOps` as a `Cloud Solution Architect`!
-- I'm gradated from [**GIST**](https://ewww.gist.ac.kr/kr/main.html)
-- My major was `Computer Science`
+- I gradated from [**GIST**](https://ewww.gist.ac.kr/kr/main.html)
+- I majored in `Computer Science`.
 - Contact: cjfgml0306@naver.com
 
 Here is my resume!
@@ -28,8 +28,9 @@ Here is my resume!
 ![OAuth](https://img.shields.io/badge/OAuth/OIDC-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
+
 #### Cloud / DevOps
-![Azure]
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
@@ -37,7 +38,6 @@ Here is my resume!
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubespray](https://img.shields.io/badge/kubespray-%3D647F.svg?style=for-the-badge&logo=kubesrpay&logoColor=white)
 
 
 #### Web/Mobile Frontend
