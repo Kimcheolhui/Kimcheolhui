@@ -1,12 +1,12 @@
 ## 👋 Hello! Welcome to My GitHub Profile!
 
-- I'm passionate about `Backend`, `DevOps`, and `InfraOps` as a `Software Developer`!
-- I'm currently studying in [**GIST**](https://ewww.gist.ac.kr/kr/main.html)
-- My major is `Computer Science`
+- I'm passionate about `Cloud`, `DevOps`, and `InfraOps` as a `Cloud Solution Architect`!
+- I'm gradated from [**GIST**](https://ewww.gist.ac.kr/kr/main.html)
+- My major was `Computer Science`
 - Contact: cjfgml0306@naver.com
 
 Here is my resume!
-[Cheolhui's Resume (2025.2.).pdf](https://drive.google.com/file/d/1fiZpPuAhmB38NQ5vVnmma15XofyIKNgL/view?usp=sharing)
+[Cheolhui's Resume (2025.11.).pdf](https://drive.google.com/file/d/1sJvhdOg8LTMdGitDigSKmXj3uncibMiv/view?usp=sharing)
 
 ### 🛠️ Tech Stack
 #### Languages
@@ -29,6 +29,7 @@ Here is my resume!
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 #### Cloud / DevOps
+![Azure]
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
@@ -36,6 +37,7 @@ Here is my resume!
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubespray](https://img.shields.io/badge/kubespray-%3D647F.svg?style=for-the-badge&logo=kubesrpay&logoColor=white)
 
 
 #### Web/Mobile Frontend
